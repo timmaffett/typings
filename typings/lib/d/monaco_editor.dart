@@ -6,6 +6,6 @@ import 'package:typings/annotations.dart';
     package: 'monaco-editor',
     version: '0.38.0',
     dirName: 'monaco_editor',
-    contextCheck: 'go',
+    contextCheck: 'monaco',
     uses: ['core'])
 export 'monaco_editor/monaco_editor.dart';
